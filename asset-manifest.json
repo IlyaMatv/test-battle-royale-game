@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-battle-royale-game/static/css/main.d4fe9506.css",
+    "main.js": "/test-battle-royale-game/static/js/main.f26cee47.js",
+    "static/js/787.11ab8c61.chunk.js": "/test-battle-royale-game/static/js/787.11ab8c61.chunk.js",
+    "static/media/world-collapse-doomsday-scene-digital-painting.jpg": "/test-battle-royale-game/static/media/world-collapse-doomsday-scene-digital-painting.68d39f32d65f8fe0d8f9.jpg",
+    "static/media/death.png": "/test-battle-royale-game/static/media/death.46e04dec0799f9436235.png",
+    "index.html": "/test-battle-royale-game/index.html",
+    "main.d4fe9506.css.map": "/test-battle-royale-game/static/css/main.d4fe9506.css.map",
+    "main.f26cee47.js.map": "/test-battle-royale-game/static/js/main.f26cee47.js.map",
+    "787.11ab8c61.chunk.js.map": "/test-battle-royale-game/static/js/787.11ab8c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4fe9506.css",
+    "static/js/main.f26cee47.js"
+  ]
+}
