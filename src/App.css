@@ -1,0 +1,9 @@
+.App {
+  background-color: rgb(45, 55, 66);
+  min-height: 100vh;
+  min-width: 100vw;
+
+  background: url("./assets//world-collapse-doomsday-scene-digital-painting.jpg");
+  background-position: center;
+  background-size: cover;
+}
